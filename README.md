@@ -65,4 +65,4 @@ The system supports various configuration options:
 
 ## 📝 License
 
-This project is open source and available under the MIT License. 
+This project is open source and available under the MIT License. # image-to-text-exraction
